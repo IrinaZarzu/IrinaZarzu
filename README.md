@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🤔 I’m looking for help with SQL.
 ###  📫 How to reach me: You can visit my www.linkedin.com/in/irina-zarzu :point_left: 
 
-[Linkedin Profile](www.linkedin.com/in/irina-zarzu "Irina Zarzu")
+[Linkedin Profile](https://www.linkedin.com/in/irina-zarzu "Irina Zarzu")
 
 | Rank | Languages |
 | :----- | :-----: |

@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **IrinaZarzu/IrinaZarzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :brain: I love new challenges, so here I am, learning *Markdown* with **GitHub's** help.
+### 🤔 I’m looking for help with SQL.
+###  📫 How to reach me: You can visit my LinkedIN profile :point_right: www.linkedin.com/in/irina-zarzu
+
+
+| Rank | Languages |
+| :----- | :-----: |
+| 1 | English |
+| 2 | French |

@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ### :brain: I love new challenges, so here I am, learning *Markdown* with **GitHub's** help.
 ### 🤔 I’m looking for help with SQL.
-###  📫 How to reach me: You can visit my [Linkedin Profile](www.linkedin.com/in/irina-zarzu) :point_left: 
+###  📫 How to reach me: You can visit my [Linkedin Profile](www.linkedin.com/in/irina-zarzu "Irina Zarzu") :point_left: 
 
+[Linkedin Profile](www.linkedin.com/in/irina-zarzu "Irina Zarzu")
 
 | Rank | Languages |
 | :----- | :-----: |

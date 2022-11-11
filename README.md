@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :brain: I love new challenges, so here I am, learning *Markdown* with **GitHub's** help.
+### :brain: I love new challenges, so here I am, learning *Markdown* with *GitHub's* help.
 ### 🤔 I’m looking for help with SQL.
 ###  📫 How to reach me: You can visit my [Linkedin Profile](https://www.linkedin.com/in/irina-zarzu "Irina Zarzu") :point_left: 
 

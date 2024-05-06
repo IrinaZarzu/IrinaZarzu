@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! 👋 I'm Irina, a passionate Cloud Engineer with a focus on AWS solutions and aspiring to master cloud architecture. Currently, I am enhancing my skills through hands-on projects and certification programs like AWS Cloud Practitioner and Solutions Architect.
+Hello! 👋 I'm Irina, a passionate Cloud Engineer with a focus on AWS solutions and aspiring to master cloud architecture. Currently, I am enhancing my skills through hands-on projects and earned AWS Cloud Practitioner and Solutions Architect certifications.
 
 🚀 **What I Do:**
 - Develop scalable and efficient cloud solutions.

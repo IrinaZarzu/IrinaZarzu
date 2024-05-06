@@ -15,13 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :brain: I love new challenges, so here I am, learning *Markdown* with *GitHub's* help.
-### 🤔 I’m looking for help with SQL.
-###  📫 How to reach me: You can visit my [Linkedin Profile](https://www.linkedin.com/in/irina-zarzu "Irina Zarzu") :point_left: 
+Hello! 👋 I'm Irina, a passionate Cloud Engineer with a focus on AWS solutions and aspiring to master cloud architecture. Currently, I am enhancing my skills through hands-on projects and certification programs like AWS Cloud Practitioner and Solutions Architect.
 
+🚀 **What I Do:**
+- Develop scalable and efficient cloud solutions.
+- Continuously learn about new cloud trends and technologies.
 
+🌱 **I’m currently learning:**
+- Advanced AWS services
+- Serverless architectures
+- Cloud security best practices
 
-| Rank | Languages |
-| :----- | :-----: |
-| 1 | English |
-| 2 | French |
+💼 **Professional Goals:**
+- To become a certified AWS Developer.
+- To contribute to major open-source projects in the cloud computing space.
+
+📫 **Reach me:** 
+- Connect with me on [Linkedin Profile](https://www.linkedin.com/in/irina-zarzu "Irina Zarzu") :point_left: 
+- Follow me on GitHub to see my projects and contributions.
+
+I love exploring new technologies and am always open to collaborating on projects and innovative solutions. If you're interested in cloud computing or have a project in mind, let's connect!
+

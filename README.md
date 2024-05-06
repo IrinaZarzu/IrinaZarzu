@@ -31,7 +31,7 @@ Hello! 👋 I'm Irina, a passionate Cloud Engineer with a focus on AWS solutions
 - To contribute to major open-source projects in the cloud computing space.
 
 📫 **Reach me:** 
-- Connect with me on [Linkedin Profile](https://www.linkedin.com/in/irina-zarzu "Irina Zarzu") :point_left: 
+- Connect with me on [Linkedin Profile](https://www.linkedin.com/in/irinazarzu) :point_left: 
 - Follow me on GitHub to see my projects and contributions.
 
 I love exploring new technologies and am always open to collaborating on projects and innovative solutions. If you're interested in cloud computing or have a project in mind, let's connect!
